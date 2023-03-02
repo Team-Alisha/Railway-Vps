@@ -13,3 +13,10 @@
         "value": "",
         "required": true
       },
+  "buildpacks": [
+    {
+      "url": "heroku/Dockerfile"
+    }
+  ],
+  "stack": "container"
+  }
