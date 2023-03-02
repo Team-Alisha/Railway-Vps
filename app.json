@@ -1,0 +1,15 @@
+{
+    "name": "vps",
+    "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
+    "logo": "https://telegra.ph//file/02dd02741800ee1b7c8e4.jpg",
+    "env": {
+      "ngrokid": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "Password": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": "",
+        "required": true
+      },
