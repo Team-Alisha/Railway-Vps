@@ -16,3 +16,6 @@ Developer :- [Abhimanyu Singh Ranawat](t.me/VeNom_HaiN_HuM)
 Credit :- [Stranger](t.me/ItzMehHaznLol) 
 
 Have A Good Day 🌟
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ 
